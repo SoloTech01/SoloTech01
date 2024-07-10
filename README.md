@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SoloTech01
-- 👀 I’m interested in Software development,GUI...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software development,Machine learning...
+- 🌱 I’m currently learning Python,JavaScript 
 - 💞️ I’m looking to collaborate on Software development 
-- 📫 How to reach me : WhatsApp: +2348023710562
+- 📫 How to reach me on whatsapp: +2348023710562
 - 😄 Pronouns: He/him
 
 <!---
